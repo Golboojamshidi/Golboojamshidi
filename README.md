@@ -1,23 +1,20 @@
 ### Hi there 👋
 # Golboo Jamshidi
 
+Email: Golboojamshidi@gmail.com
 
 
 
-
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Golboojamshidi@gmail.com)
-
-
-
-- 💻 Business Analyst/Business Intelligence
-- 📫 
+- 💻 Business Analyst/Business Intelligence enthusiast 
+- 📫 Data Analyst enthusiast
 
 
 ### 🖥 Skills
 
 - ‌‌‌Business Analyst
 ### ⚙️ Tech Stack
-
+- SQL
+- Excel
 
 
 ---
