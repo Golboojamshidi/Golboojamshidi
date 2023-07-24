@@ -1,16 +1,24 @@
 ### Hi there 👋
+# Golboo Jamshidi
 
-<!--
-**Golboojamshidi/Golboojamshidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Golboojamshidi@gmail.com)
+
+
+
+- 💻 
+- 📫 
+
+
+### 🖥 Skills
+
+- ‌‌‌Business Analyst
+### ⚙️ Tech Stack
+
+
+
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
