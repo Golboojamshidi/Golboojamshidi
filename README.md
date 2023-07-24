@@ -9,7 +9,7 @@
 
 
 
-- 💻 
+- 💻 Business Analyst/Business Intelligence
 - 📫 
 
 
