@@ -5,8 +5,8 @@ Email: Golboojamshidi@gmail.com
 
 
 
-- 💻 Business Analyst/Business Intelligence enthusiast 
-- 📫 Data Analyst enthusiast
+- 💻 
+- 📫 
 
 
 ### 🖥 Skills
@@ -15,6 +15,7 @@ Email: Golboojamshidi@gmail.com
 ### ⚙️ Tech Stack
 - SQL
 - Excel
+- Python
 
 
 ---
