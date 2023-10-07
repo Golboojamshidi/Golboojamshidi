@@ -37,8 +37,8 @@
   - Brief description of the project.
 
 ## 🏅 Certifications
-![PostgreSQL]([/Users/golboojamshidi/Desktop/Screen Shot 2023-10-04 at 12.41.51 AM.png](https://imgur.com/WaqJDT7))
 - [EXCEL TRAINING PROGRAM]( /Users/golboojamshidi/Desktop/JAMSHIDI GOLBOO Institute Excel Training Program Certificate of Completion.pdf) - Concordia University  - 2023
+- [PostgreSQL]([/Users/golboojamshidi/Desktop/Screen Shot 2023-10-04 at 12.41.51 AM.png](https://imgur.com/WaqJDT7))
 
 ## 🤝 Contributions
 - [Open Source Project 1](Link to Contribution 1)
