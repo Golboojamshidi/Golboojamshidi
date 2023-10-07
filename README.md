@@ -5,7 +5,7 @@
 
 ## 🖥 Skills
 - Data Analyst
-- Intelligence
+- Business Intelligence
 
 ## ⚙️ Tech Stack
 - SQL
