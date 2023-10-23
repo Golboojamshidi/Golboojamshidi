@@ -24,7 +24,7 @@
 
 ## 🚀 Projects
 ### Project 1: **Machine Learning Algorithm Selection for pizza Quality Classification with PCA**
-- **Description:** In this project, I conducted an extensive analysis of machine learning algorithms to determine the most suitable models for classifying pizza quality. I employed data-driven approaches to assess and compare the performance of various algorithms.
+- **Description:** In this project, I conducted an extensive analysis of machine learning algorithms to determine the most suitable models for classifying pizza quality. I employed data-driven approaches to assess and compare the performance of various algorithms.(https://github.com/Golboojamshidi/Machine-Learning-Algorithm-Selection-for-pizza-Quality-Classification-with-PCA)
 - **Libraries Used:**  Numpy,Pandas,sklearn, matplotlib, Seaborn
 
 ### Project 2: [Project Name 2]
