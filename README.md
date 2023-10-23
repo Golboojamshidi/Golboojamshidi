@@ -17,10 +17,11 @@
 - [Master's, Concordia University](https://www.concordia.ca/)
 
 ## 💼 Work Experience
-- **Data Analyst** at Company XYZ
-  - Description of your role and accomplishments.
-- **Job Title** at Company ABC
-  - Description of your role and accomplishments.
+- **Customer Experience Analyst** at PenguinPickUp Co.
+  
+- **Medical Imaging Data-Driven Marketing Analyst** at Hitachi Healthcare Co.
+ 
+- **Medical Imaging Marketing Insights Specialist** at PHILIPS healthcare Authorized Distributer Co.                                        
 
 
 
