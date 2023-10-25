@@ -34,22 +34,15 @@
 **Libraries Used:** Numpy, Pandas, sklearn, Matplotlib, Seaborn
 
 
-### Project 2: [Project Name 2]
-- **Description:** Provide an overview of the second project.
-- **Libraries Used:** List the relevant libraries or dependencies for this project.
-
-### Project 3: [Project Name 3]
-- **Description:** Introduce the third project, if applicable.
-- **Libraries Used:** List the libraries that were utilized in this project.
-
-### Project 4: [Project Name 4]
-- **Description:** If you have more projects, continue the pattern.
-- **Libraries Used:** List the libraries for this project.
 
 ## 🏅 Certifications
+- **Data Analysis Real world use-cases Hands on Python** Udemy Academy
+- **The Complete SQL Bootcamp** Udemy Academy
+- **Lean Six Sigma Green Bely** Six Sigma Academy Amsterdam
+- **Advance Excel Training** Concordia University
 
 
-## 🤝 Contributions
+
 
 
 ## 💬 Interests
